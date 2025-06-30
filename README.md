@@ -1,4 +1,6 @@
-#                                            Hey there! I'm Darshan D G 👋🏻
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=4000&pause=1000&color=0A8FDC&width=435&lines=Hey+there!+I'm+Darshan+D+G+%F0%9F%91%8B%F0%9F%8F%BB" alt="Typing SVG" />
+</p>
 
 <span style="font-size:18px;">
 I'm currently pursuing my degree in Information Science and Engineering. My focus lies primarily in mastering <strong>Java Development, Cloud Engineering, and DevOps</strong>, and I'm particularly enthusiastic about <strong>Competitive Programming</strong>, constantly working to sharpen my problem-solving abilities and algorithmic thinking.
