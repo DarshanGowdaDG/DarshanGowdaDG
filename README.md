@@ -38,23 +38,23 @@ Looking ahead, my ambition is to establish myself as a <strong>proficient softwa
 
 ## 📬 Connect with Me
 <p>
-  <a href="https://www.instagram.com/yourusername/" target="_blank">
+  <a href="https://www.instagram.com/darshan._.gowda._/" target="_blank">
     <img src="https://www.svgrepo.com/show/111199/instagram.svg" alt="Instagram" width="40" height="40"/>
   </a>
   &nbsp;&nbsp;&nbsp;
-  <a href="https://www.linkedin.com/in/yourusername/" target="_blank">
+  <a href="https://www.linkedin.com/in/DarshanGowdaDG/" target="_blank">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="LinkedIn" width="40" height="40"/>
   </a>
   &nbsp;&nbsp;&nbsp;
-  <a href="https://www.codechef.com/users/yourusername" target="_blank">
+  <a href="https://www.codechef.com/users/1nh22is032" target="_blank">
     <img src="https://www.svgrepo.com/show/305880/codechef.svg" alt="CodeChef" width="40" height="40"/>
   </a>
   &nbsp;&nbsp;&nbsp;
-  <a href="https://leetcode.com/yourusername/" target="_blank">
+  <a href="https://leetcode.com/DarshanGowdaDG/" target="_blank">
     <img src="https://upload.wikimedia.org/wikipedia/commons/1/19/LeetCode_logo_black.png" alt="LeetCode" width="40" height="40"/>
   </a>
   &nbsp;&nbsp;&nbsp;
-  <a href="mailto:yourname@gmail.com" target="_blank">
+  <a href="mailto:darshandg2004@gmail.com" target="_blank">
     <img src="https://upload.wikimedia.org/wikipedia/commons/4/4e/Gmail_Icon.png" alt="Gmail" width="40" height="40"/>
   </a>
 </p>
