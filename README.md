@@ -8,16 +8,16 @@ Throughout my academic journey, I've been actively involved in diverse projects,
 Looking ahead, my ambition is to establish myself as a <strong>proficient software engineer and cloud architect</strong>, leveraging my expertise in problem-solving to create innovative and impactful solutions. I'm passionate about tackling challenging problems head-on, and I believe this drive will propel me toward achieving my goals in the dynamic world of software development.
 </span>
 
-## 🚀 Technical Skills
+##  Technical Skills
 
-### 🎨 Web Development Languages
+###  Web Development Languages
 <p>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="60" height="60"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="HTML5" width="60" height="60"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" alt="CSS3" width="60" height="60"/>
 </p>
 
-### 💻 Programming Languages
+###  Programming Languages
 <p>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="Java" width="60" height="60"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="C++" width="60" height="60"/>
@@ -25,7 +25,7 @@ Looking ahead, my ambition is to establish myself as a <strong>proficient softwa
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="C" width="60" height="60"/>
 </p>
 
-### 🛠️ Tools & Platforms
+###  Tools & Platforms
 <p>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="Git" width="60" height="60"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="AWS" width="60" height="60"/>
@@ -36,7 +36,7 @@ Looking ahead, my ambition is to establish myself as a <strong>proficient softwa
 
 ---
 
-## 📬 Connect with Me
+##  Connect with Me
 <p>
   <a href="https://www.instagram.com/darshan._.gowda._/" target="_blank">
     <img src="https://www.svgrepo.com/show/111199/instagram.svg" alt="Instagram" width="40" height="40"/>
