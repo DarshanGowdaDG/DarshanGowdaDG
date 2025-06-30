@@ -11,14 +11,14 @@ Looking ahead, my ambition is to establish myself as a <strong>proficient softwa
 ## 🚀 Technical Skills
 
 ### 🎨 Web Development Languages
-<p align="center">
+<p>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="60" height="60"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="HTML5" width="60" height="60"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" alt="CSS3" width="60" height="60"/>
 </p>
 
 ### 💻 Programming Languages
-<p align="center">
+<p>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="Java" width="60" height="60"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="C++" width="60" height="60"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="60" height="60"/>
@@ -26,7 +26,7 @@ Looking ahead, my ambition is to establish myself as a <strong>proficient softwa
 </p>
 
 ### 🛠️ Tools & Platforms
-<p align="center">
+<p>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="Git" width="60" height="60"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="AWS" width="60" height="60"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/firebase/firebase-plain.svg" alt="Firebase" width="60" height="60"/>
@@ -37,9 +37,9 @@ Looking ahead, my ambition is to establish myself as a <strong>proficient softwa
 ---
 
 ## 📬 Connect with Me
-<p align="center">
+<p>
   <a href="https://www.instagram.com/yourusername/" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/instagram/instagram-original.svg" alt="Instagram" width="40" height="40"/>
+    <img src="https://www.svgrepo.com/show/111199/instagram.svg" alt="Instagram" width="40" height="40"/>
   </a>
   &nbsp;&nbsp;&nbsp;
   <a href="https://www.linkedin.com/in/yourusername/" target="_blank">
@@ -47,7 +47,7 @@ Looking ahead, my ambition is to establish myself as a <strong>proficient softwa
   </a>
   &nbsp;&nbsp;&nbsp;
   <a href="https://www.codechef.com/users/yourusername" target="_blank">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6f/Codechef_logo.svg/1024px-Codechef_logo.svg.png" alt="CodeChef" width="40" height="40"/>
+    <img src="https://www.svgrepo.com/show/305880/codechef.svg" alt="CodeChef" width="40" height="40"/>
   </a>
   &nbsp;&nbsp;&nbsp;
   <a href="https://leetcode.com/yourusername/" target="_blank">
