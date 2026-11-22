@@ -1,66 +1,117 @@
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=4000&pause=1000&color=0A8FDC&width=435&lines=Hey+there!+I'm+Darshan+D+G+%F0%9F%91%8B%F0%9F%8F%BB" alt="Typing SVG" />
-</p>
+&#x20;\<p align="center">   \<img src="[https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=0A8FDC&center=true&vCenter=true&width=650&lines=Hi%2C+I](https://readme-typing-svg.herokuapp.com?font=Fira+Code\&size=24\&duration=3000\&pause=1000\&color=0A8FDC\&center=true\&vCenter=true\&width=650\&lines=Hi%2C+I)'m+Darshan+D+G+%F0%9F%91%8B;Windows+Server+Administrator;Cloud+%26+DevOps+Enthusiast;Infrastructure+%26+Automation+Engineer" alt="Typing SVG" /> \</p>
 
-<span style="font-size:18px;">
-I'm currently pursuing my degree in Information Science and Engineering. My focus lies primarily in mastering <strong>Java Development, Cloud Engineering, and DevOps</strong>, and I'm particularly enthusiastic about <strong>Competitive Programming</strong>, constantly working to sharpen my problem-solving abilities and algorithmic thinking.
-<br><br>
-Throughout my academic journey, I've been actively involved in diverse projects, where I've had the opportunity to develop <strong>cloud-based applications, intelligent chatbots,Machine Learning Models, and voice-driven solutions</strong> tailored to real-world needs. These experiences have not only refined my technical skills but also deepened my understanding of building scalable, practical software.
-<br><br>
-Looking ahead, my ambition is to establish myself as a <strong>proficient software engineer and cloud architect</strong>, leveraging my expertise in problem-solving to create innovative and impactful solutions. I'm passionate about tackling challenging problems head-on, and I believe this drive will propel me toward achieving my goals in the dynamic world of software development.
-</span>
+\<h3 align="center">Enterprise Infrastructure | Cloud Engineering | DevOps | Automation\</h3>
 
-##  Technical Skills
+\<p align="center">   \<a href="[https://www.linkedin.com/in/DarshanGowdaDG/](https://www.linkedin.com/in/DarshanGowdaDG/)">     \<img src="[https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge\&logo=linkedin)" />   \</a>   \<a href="mailto\:darshandg2004\@gmail.com">     \<img src="[https://img.shields.io/badge/Email-Contact-red?style=for-the-badge&logo=gmail&logoColor=white](https://img.shields.io/badge/Email-Contact-red?style=for-the-badge\&logo=gmail\&logoColor=white)" />   \</a>   \<a href="[https://leetcode.com/DarshanGowdaDG/](https://leetcode.com/DarshanGowdaDG/)">     \<img src="[https://img.shields.io/badge/LeetCode-Profile-orange?style=for-the-badge&logo=leetcode&logoColor=white](https://img.shields.io/badge/LeetCode-Profile-orange?style=for-the-badge\&logo=leetcode\&logoColor=white)" />   \</a> \</p>
 
-###  Web Development Languages
-<p>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="60" height="60"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="HTML5" width="60" height="60"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" alt="CSS3" width="60" height="60"/>
-   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" alt="React" width="60" height="60"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" alt="Node.js" width="60" height="60"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/flask/flask-original.svg" alt="Flask" width="60" height="60"/>
-</p>
+## 👨‍💻 About Me
 
-###  Programming Languages
-<p>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="Java" width="60" height="60"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="C++" width="60" height="60"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="60" height="60"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="C" width="60" height="60"/>
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" alt="SQL" width="60" height="60"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg" alt="MongoDB" width="60" height="60"/>
-</p>
+I'm an Information Science and Engineering graduate with a strong interest in **enterprise infrastructure, cloud computing, DevOps, and automation**.
 
-###  Tools & Platforms
-<p>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="Git" width="60" height="60"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="AWS" width="60" height="60"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/firebase/firebase-plain.svg" alt="Firebase" width="60" height="60"/>
-</p>
+Currently working full-time at **Merck**, where I work with enterprise Windows Server infrastructure, Active Directory, Group Policy, networking services, virtualization, and infrastructure automation.
 
----
+My technical interests extend beyond traditional system administration. I'm particularly interested in understanding how operating systems, networks, cloud platforms, and distributed systems work internally.
 
-##  Connect with Me
-<p>
-  <a href="https://www.instagram.com/darshan._.gowda._/" target="_blank">
-    <img src="https://www.svgrepo.com/show/111199/instagram.svg" alt="Instagram" width="40" height="40"/>
-  </a>
-  &nbsp;&nbsp;&nbsp;
-  <a href="https://www.linkedin.com/in/DarshanGowdaDG/" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="LinkedIn" width="40" height="40"/>
-  </a>
-  &nbsp;&nbsp;&nbsp;
-  <a href="https://www.codechef.com/users/1nh22is032" target="_blank">
-    <img src="https://www.svgrepo.com/show/305880/codechef.svg" alt="CodeChef" width="40" height="40"/>
-  </a>
-  &nbsp;&nbsp;&nbsp;
-  <a href="https://leetcode.com/DarshanGowdaDG/" target="_blank">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/1/19/LeetCode_logo_black.png" alt="LeetCode" width="40" height="40"/>
-  </a>
-  &nbsp;&nbsp;&nbsp;
-  <a href="mailto:darshandg2004@gmail.com" target="_blank">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/4/4e/Gmail_Icon.png" alt="Gmail" width="40" height="40"/>
-  </a>
-</p>
+I enjoy automating repetitive infrastructure operations using PowerShell and Bash, exploring Linux internals, building cloud-based solutions, and continuously strengthening my programming and problem-solving skills.
 
+**My areas of interest:**
+
+- Enterprise Infrastructure & Windows Server Administration
+- Active Directory, IAM & Group Policy Management
+- Linux Administration & Operating System Internals
+- Cloud Engineering (AWS & Microsoft Azure)
+- DevOps, CI/CD & Infrastructure as Code
+- PowerShell, Bash & Infrastructure Automation
+- Networking, Virtualization & Infrastructure Security
+
+## 💼 Professional Experience
+
+**Windows Server Administration | Merck**
+
+Working with enterprise IT infrastructure and supporting reliable, secure, and efficient infrastructure operations.
+
+- Windows Server administration and enterprise infrastructure support.
+- Active Directory, DNS, DHCP, Group Policy and identity management.
+- Enterprise networking troubleshooting, including TCP/IP, VLANs, routing, switching and VPN connectivity.
+- VMware virtualization and virtual network administration.
+- PowerShell automation for infrastructure administration and troubleshooting.
+- Incident investigation, root cause analysis, change implementation and technical documentation.
+
+## 🛠️ Technical Skills
+
+### Programming & Scripting
+
+\<p>
+&#x20; \<img src="[https://skillicons.dev/icons?i=java,python,cpp,c,js,powershell,bash](https://skillicons.dev/icons?i=java,python,cpp,c,js,powershell,bash)" />
+\</p>
+
+### Operating Systems & Infrastructure
+
+\<p>
+&#x20; \<img src="[https://skillicons.dev/icons?i=windows,linux](https://skillicons.dev/icons?i=windows,linux)" />
+\</p>
+
+- Windows Server Administration
+- Active Directory & Group Policy
+- DNS, DHCP and IAM
+- Linux Administration and Bash Scripting
+- VMware Virtualization
+- System Administration and Troubleshooting
+
+### Cloud & DevOps
+
+\<p>   \<img src="[https://skillicons.dev/icons?i=aws,azure,docker,kubernetes,terraform,ansible,jenkins,githubactions,git,github](https://skillicons.dev/icons?i=aws,azure,docker,kubernetes,terraform,ansible,jenkins,githubactions,git,github)" /> \</p>
+
+- Amazon Web Services (AWS)
+- Microsoft Azure
+- Azure DevOps & CI/CD Pipelines
+- Docker & Kubernetes
+- Terraform & Infrastructure as Code
+- Git and GitHub
+
+### Networking & Security
+
+- TCP/IP, IPv4/IPv6 and OSI Model
+- Routing & Switching
+- VLANs, OSPF, BGP Fundamentals, STP
+- VPN, NAT, ACLs and Firewall Fundamentals
+- Network Troubleshooting and Packet Analysis
+- Infrastructure Security & System Hardening
+
+### Web Development & Databases
+
+\<p>   \<img src="[https://skillicons.dev/icons?i=html,css,react,nodejs,flask,mysql,mongodb,firebase](https://skillicons.dev/icons?i=html,css,react,nodejs,flask,mysql,mongodb,firebase)" /> \</p>
+
+## 🚀 Areas of Exploration
+
+I'm continuously working on strengthening my understanding of:
+
+- Linux Kernel Internals and System Programming
+- Cloud Architecture and Distributed Systems
+- Infrastructure Automation and Configuration Management
+- Containerization and Container Orchestration
+- Enterprise Identity and Access Management
+- Cybersecurity and Infrastructure Hardening
+- Observability, Monitoring and Troubleshooting
+
+## 🎓 Education
+
+**Bachelor of Engineering – Information Science and Engineering**
+
+New Horizon College of Engineering, Bengaluru
+
+2022 – 2026 | CGPA: 9.24
+
+## 🏆 Certifications & Achievements
+
+- Cisco – Cybersecurity Fundamentals (2025)
+- NPTEL – Operating Systems (2024)
+- NPTEL – Data Analytics (2025)
+- IBM – Data Science (2024)
+- Data Structures & Algorithms – Apna College (2024)
+
+## 🤝 Connect With Me
+
+\<p align="left">   \<a href="[https://www.linkedin.com/in/DarshanGowdaDG/](https://www.linkedin.com/in/DarshanGowdaDG/)" target="\_blank">     \<img src="[https://skillicons.dev/icons?i=linkedin](https://skillicons.dev/icons?i=linkedin)" width="40" />   \</a>   &nbsp;   \<a href="[https://www.instagram.com/darshan.\_.gowda.\_/](https://www.instagram.com/darshan._.gowda._/)" target="\_blank">     \<img src="[https://skillicons.dev/icons?i=instagram](https://skillicons.dev/icons?i=instagram)" width="40" />   \</a>   &nbsp;   \<a href="[https://leetcode.com/DarshanGowdaDG/](https://leetcode.com/DarshanGowdaDG/)" target="\_blank">     \<img src="[https://cdn.jsdelivr.net/gh/devicons/devicon/icons/leetcode/leetcode-original.svg](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/leetcode/leetcode-original.svg)" width="40" />   \</a>   &nbsp;   \<a href="mailto\:darshandg2004\@gmail.com">     \<img src="[https://skillicons.dev/icons?i=gmail](https://skillicons.dev/icons?i=gmail)" width="40" />   \</a> \</p>
+
+\<p align="center">   \<i>"Understand systems deeply. Automate intelligently. Build reliable infrastructure."\</i> \</p>
