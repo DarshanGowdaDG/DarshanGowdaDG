@@ -1,98 +1,110 @@
-&#x20;\<p align="center">   \<img src="[https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=0A8FDC&center=true&vCenter=true&width=650&lines=Hi%2C+I](https://readme-typing-svg.herokuapp.com?font=Fira+Code\&size=24\&duration=3000\&pause=1000\&color=0A8FDC\&center=true\&vCenter=true\&width=650\&lines=Hi%2C+I)'m+Darshan+D+G+%F0%9F%91%8B;Windows+Server+Administrator;Cloud+%26+DevOps+Enthusiast;Infrastructure+%26+Automation+Engineer" alt="Typing SVG" /> \</p>
+&#x20;\<p align="center">
+&#x20; \<img src="[https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=0A8FDC&center=true&vCenter=true&width=650&lines=Hi%2C+I](https://readme-typing-svg.herokuapp.com?font=Fira+Code\&size=24\&duration=3000\&pause=1000\&color=0A8FDC\&center=true\&vCenter=true\&width=650\&lines=Hi%2C+I)'m+Darshan+D+G+%F0%9F%91%8B;Windows+Server+Administrator;Cloud+%26+DevOps+Enthusiast;Infrastructure+Automation" alt="Typing SVG" />
+\</p>
 
-\<h3 align="center">Enterprise Infrastructure | Cloud Engineering | DevOps | Automation\</h3>
+\<h3 align="center">Enterprise Infrastructure | Cloud | DevOps | Automation\</h3>
 
-\<p align="center">   \<a href="[https://www.linkedin.com/in/DarshanGowdaDG/](https://www.linkedin.com/in/DarshanGowdaDG/)">     \<img src="[https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge\&logo=linkedin)" />   \</a>   \<a href="mailto\:darshandg2004\@gmail.com">     \<img src="[https://img.shields.io/badge/Email-Contact-red?style=for-the-badge&logo=gmail&logoColor=white](https://img.shields.io/badge/Email-Contact-red?style=for-the-badge\&logo=gmail\&logoColor=white)" />   \</a>   \<a href="[https://leetcode.com/DarshanGowdaDG/](https://leetcode.com/DarshanGowdaDG/)">     \<img src="[https://img.shields.io/badge/LeetCode-Profile-orange?style=for-the-badge&logo=leetcode&logoColor=white](https://img.shields.io/badge/LeetCode-Profile-orange?style=for-the-badge\&logo=leetcode\&logoColor=white)" />   \</a> \</p>
+\<p align="center">
+&#x20; \<a href="[https://www.linkedin.com/in/DarshanGowdaDG/](https://www.linkedin.com/in/DarshanGowdaDG/)">
+&#x20;   \<img src="[https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge\&logo=linkedin)" alt="LinkedIn"/>
+&#x20; \</a>
+&#x20; \<a href="mailto\:darshandg2004\@gmail.com">
+&#x20;   \<img src="[https://img.shields.io/badge/Email-Contact-red?style=for-the-badge&logo=gmail&logoColor=white](https://img.shields.io/badge/Email-Contact-red?style=for-the-badge\&logo=gmail\&logoColor=white)" alt="Email"/>
+&#x20; \</a>
+&#x20; \<a href="[https://leetcode.com/DarshanGowdaDG/](https://leetcode.com/DarshanGowdaDG/)">
+&#x20;   \<img src="[https://img.shields.io/badge/LeetCode-Profile-orange?style=for-the-badge&logo=leetcode&logoColor=white](https://img.shields.io/badge/LeetCode-Profile-orange?style=for-the-badge\&logo=leetcode\&logoColor=white)" alt="LeetCode"/>
+&#x20; \</a>
+\</p>
 
 ## 👨‍💻 About Me
 
-I'm an Information Science and Engineering graduate with a strong interest in **enterprise infrastructure, cloud computing, DevOps, and automation**.
+I'm an Information Science and Engineering graduate currently working full-time at **Merck**.
 
-Currently working full-time at **Merck**, where I work with enterprise Windows Server infrastructure, Active Directory, Group Policy, networking services, virtualization, and infrastructure automation.
+My primary interests lie in **Enterprise Infrastructure, Cloud Engineering, DevOps, Linux Administration, and Infrastructure Automation**.
 
-My technical interests extend beyond traditional system administration. I'm particularly interested in understanding how operating systems, networks, cloud platforms, and distributed systems work internally.
+I work with enterprise Windows Server environments, focusing on Active Directory, Group Policy, identity management, infrastructure operations, and PowerShell automation.
 
-I enjoy automating repetitive infrastructure operations using PowerShell and Bash, exploring Linux internals, building cloud-based solutions, and continuously strengthening my programming and problem-solving skills.
+Beyond day-to-day administration, I enjoy understanding operating systems at the kernel level, exploring networking internals, building cloud infrastructure, and automating complex operational tasks.
 
-**My areas of interest:**
-
-- Enterprise Infrastructure & Windows Server Administration
-- Active Directory, IAM & Group Policy Management
-- Linux Administration & Operating System Internals
-- Cloud Engineering (AWS & Microsoft Azure)
-- DevOps, CI/CD & Infrastructure as Code
-- PowerShell, Bash & Infrastructure Automation
-- Networking, Virtualization & Infrastructure Security
+I'm passionate about building reliable, scalable, secure, and highly automated infrastructure.
 
 ## 💼 Professional Experience
 
 **Windows Server Administration | Merck**
 
-Working with enterprise IT infrastructure and supporting reliable, secure, and efficient infrastructure operations.
-
-- Windows Server administration and enterprise infrastructure support.
-- Active Directory, DNS, DHCP, Group Policy and identity management.
-- Enterprise networking troubleshooting, including TCP/IP, VLANs, routing, switching and VPN connectivity.
-- VMware virtualization and virtual network administration.
-- PowerShell automation for infrastructure administration and troubleshooting.
-- Incident investigation, root cause analysis, change implementation and technical documentation.
+- Enterprise Windows Server administration and infrastructure operations.
+- Active Directory, Identity and Access Management (IAM), and Group Policy management.
+- Infrastructure monitoring, patching, backup operations, and incident troubleshooting.
+- PowerShell scripting for configuration validation, inventory audits, and operational automation.
+- Azure DevOps pipelines and infrastructure configuration automation.
+- Enterprise networking and infrastructure troubleshooting.
+- Technical documentation, operational runbooks, and security-aligned practices.
 
 ## 🛠️ Technical Skills
 
 ### Programming & Scripting
 
-\<p>
-&#x20; \<img src="[https://skillicons.dev/icons?i=java,python,cpp,c,js,powershell,bash](https://skillicons.dev/icons?i=java,python,cpp,c,js,powershell,bash)" />
-\</p>
+\<p>   \<img src="[https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg](https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg)" alt="Java" width="50" height="50"/>   \<img src="[https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg](https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg)" alt="Python" width="50" height="50"/>   \<img src="[https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg](https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg)" alt="C++" width="50" height="50"/>   \<img src="[https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg](https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg)" alt="C" width="50" height="50"/>   \<img src="[https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg](https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg)" alt="JavaScript" width="50" height="50"/> \</p>
+
+**Scripting:** PowerShell | Bash | Python
 
 ### Operating Systems & Infrastructure
 
 \<p>
-&#x20; \<img src="[https://skillicons.dev/icons?i=windows,linux](https://skillicons.dev/icons?i=windows,linux)" />
+&#x20; \<img src="[https://raw.githubusercontent.com/devicons/devicon/master/icons/windows8/windows8-original.svg](https://raw.githubusercontent.com/devicons/devicon/master/icons/windows8/windows8-original.svg)" alt="Windows" width="50" height="50"/>
+&#x20; \<img src="[https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg](https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg)" alt="Linux" width="50" height="50"/>
+&#x20; \<img src="[https://raw.githubusercontent.com/devicons/devicon/master/icons/redhat/redhat-original.svg](https://raw.githubusercontent.com/devicons/devicon/master/icons/redhat/redhat-original.svg)" alt="Red Hat" width="50" height="50"/>
 \</p>
 
 - Windows Server Administration
-- Active Directory & Group Policy
-- DNS, DHCP and IAM
-- Linux Administration and Bash Scripting
+- Active Directory, DNS, DHCP & Group Policy
+- IAM and Infrastructure Security
+- Linux Administration and Internals
 - VMware Virtualization
-- System Administration and Troubleshooting
+- System Monitoring and Troubleshooting
 
 ### Cloud & DevOps
 
-\<p>   \<img src="[https://skillicons.dev/icons?i=aws,azure,docker,kubernetes,terraform,ansible,jenkins,githubactions,git,github](https://skillicons.dev/icons?i=aws,azure,docker,kubernetes,terraform,ansible,jenkins,githubactions,git,github)" /> \</p>
+\<p>   \<img src="[https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg](https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg)" alt="AWS" width="65" height="50"/>   \<img src="[https://raw.githubusercontent.com/devicons/devicon/master/icons/azure/azure-original.svg](https://raw.githubusercontent.com/devicons/devicon/master/icons/azure/azure-original.svg)" alt="Azure" width="50" height="50"/>   \<img src="[https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg](https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg)" alt="Docker" width="50" height="50"/>   \<img src="[https://raw.githubusercontent.com/devicons/devicon/master/icons/kubernetes/kubernetes-original.svg](https://raw.githubusercontent.com/devicons/devicon/master/icons/kubernetes/kubernetes-original.svg)" alt="Kubernetes" width="50" height="50"/>   \<img src="[https://raw.githubusercontent.com/devicons/devicon/master/icons/terraform/terraform-original.svg](https://raw.githubusercontent.com/devicons/devicon/master/icons/terraform/terraform-original.svg)" alt="Terraform" width="50" height="50"/>   \<img src="[https://raw.githubusercontent.com/devicons/devicon/master/icons/ansible/ansible-original.svg](https://raw.githubusercontent.com/devicons/devicon/master/icons/ansible/ansible-original.svg)" alt="Ansible" width="50" height="50"/>   \<img src="[https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg](https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg)" alt="Git" width="50" height="50"/>   \<img src="[https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg](https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg)" alt="GitHub" width="50" height="50"/> \</p>
 
 - Amazon Web Services (AWS)
 - Microsoft Azure
-- Azure DevOps & CI/CD Pipelines
+- Azure DevOps & CI/CD
 - Docker & Kubernetes
 - Terraform & Infrastructure as Code
-- Git and GitHub
+- Ansible
+- Git & GitHub
 
 ### Networking & Security
 
 - TCP/IP, IPv4/IPv6 and OSI Model
-- Routing & Switching
-- VLANs, OSPF, BGP Fundamentals, STP
-- VPN, NAT, ACLs and Firewall Fundamentals
-- Network Troubleshooting and Packet Analysis
-- Infrastructure Security & System Hardening
+- Routing and Switching
+- VLANs, NAT, ACLs and VPN
+- DNS and Network Troubleshooting
+- Firewall Fundamentals
+- Infrastructure Security and Hardening
 
 ### Web Development & Databases
 
-\<p>   \<img src="[https://skillicons.dev/icons?i=html,css,react,nodejs,flask,mysql,mongodb,firebase](https://skillicons.dev/icons?i=html,css,react,nodejs,flask,mysql,mongodb,firebase)" /> \</p>
+\<p>
+&#x20; \<img src="[https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg](https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg)" alt="React" width="50" height="50"/>
+&#x20; \<img src="[https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg](https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg)" alt="Node.js" width="50" height="50"/>
+&#x20; \<img src="[https://raw.githubusercontent.com/devicons/devicon/master/icons/flask/flask-original.svg](https://raw.githubusercontent.com/devicons/devicon/master/icons/flask/flask-original.svg)" alt="Flask" width="50" height="50"/>
+&#x20; \<img src="[https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg](https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg)" alt="MySQL" width="50" height="50"/>
+&#x20; \<img src="[https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg](https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg)" alt="MongoDB" width="50" height="50"/>
+&#x20; \<img src="[https://raw.githubusercontent.com/devicons/devicon/master/icons/firebase/firebase-plain.svg](https://raw.githubusercontent.com/devicons/devicon/master/icons/firebase/firebase-plain.svg)" alt="Firebase" width="50" height="50"/>
+\</p>
 
-## 🚀 Areas of Exploration
-
-I'm continuously working on strengthening my understanding of:
+## 🚀 Current Learning & Exploration
 
 - Linux Kernel Internals and System Programming
-- Cloud Architecture and Distributed Systems
-- Infrastructure Automation and Configuration Management
-- Containerization and Container Orchestration
+- Advanced Bash and PowerShell Automation
+- AWS and Azure Cloud Architecture
+- Infrastructure as Code and CI/CD
+- Containerization and Kubernetes
 - Enterprise Identity and Access Management
 - Cybersecurity and Infrastructure Hardening
-- Observability, Monitoring and Troubleshooting
+- System Performance Monitoring and Troubleshooting
 
 ## 🎓 Education
 
@@ -100,7 +112,7 @@ I'm continuously working on strengthening my understanding of:
 
 New Horizon College of Engineering, Bengaluru
 
-2022 – 2026 | CGPA: 9.24
+2022 – 2026
 
 ## 🏆 Certifications & Achievements
 
@@ -112,6 +124,6 @@ New Horizon College of Engineering, Bengaluru
 
 ## 🤝 Connect With Me
 
-\<p align="left">   \<a href="[https://www.linkedin.com/in/DarshanGowdaDG/](https://www.linkedin.com/in/DarshanGowdaDG/)" target="\_blank">     \<img src="[https://skillicons.dev/icons?i=linkedin](https://skillicons.dev/icons?i=linkedin)" width="40" />   \</a>   &nbsp;   \<a href="[https://www.instagram.com/darshan.\_.gowda.\_/](https://www.instagram.com/darshan._.gowda._/)" target="\_blank">     \<img src="[https://skillicons.dev/icons?i=instagram](https://skillicons.dev/icons?i=instagram)" width="40" />   \</a>   &nbsp;   \<a href="[https://leetcode.com/DarshanGowdaDG/](https://leetcode.com/DarshanGowdaDG/)" target="\_blank">     \<img src="[https://cdn.jsdelivr.net/gh/devicons/devicon/icons/leetcode/leetcode-original.svg](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/leetcode/leetcode-original.svg)" width="40" />   \</a>   &nbsp;   \<a href="mailto\:darshandg2004\@gmail.com">     \<img src="[https://skillicons.dev/icons?i=gmail](https://skillicons.dev/icons?i=gmail)" width="40" />   \</a> \</p>
+\<p>   \<a href="[https://www.instagram.com/darshan.\_.gowda.\_/](https://www.instagram.com/darshan._.gowda._/)" target="\_blank">     \<img src="[https://www.svgrepo.com/show/111199/instagram.svg](https://www.svgrepo.com/show/111199/instagram.svg)" alt="Instagram" width="40" height="40"/>   \</a>   &nbsp;&nbsp;&nbsp;   \<a href="[https://www.linkedin.com/in/DarshanGowdaDG/](https://www.linkedin.com/in/DarshanGowdaDG/)" target="\_blank">     \<img src="[https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg)" alt="LinkedIn" width="40" height="40"/>   \</a>   &nbsp;&nbsp;&nbsp;   \<a href="[https://www.svgrepo.com/show/305880/codechef.svg](https://www.svgrepo.com/show/305880/codechef.svg)" target="\_blank">     \<img src="[https://www.svgrepo.com/show/305880/codechef.svg](https://www.svgrepo.com/show/305880/codechef.svg)" alt="CodeChef" width="40" height="40"/>   \</a>   &nbsp;&nbsp;&nbsp;   \<a href="[https://leetcode.com/DarshanGowdaDG/](https://leetcode.com/DarshanGowdaDG/)" target="\_blank">     \<img src="[https://cdn.jsdelivr.net/gh/devicons/devicon/icons/leetcode/leetcode-original.svg](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/leetcode/leetcode-original.svg)" alt="LeetCode" width="40" height="40"/>   \</a>   &nbsp;&nbsp;&nbsp;   \<a href="mailto\:darshandg2004\@gmail.com">     \<img src="[https://upload.wikimedia.org/wikipedia/commons/4/4e/Gmail_Icon.png](https://upload.wikimedia.org/wikipedia/commons/4/4e/Gmail_Icon.png)" alt="Gmail" width="40" height="40"/>   \</a> \</p>
 
 \<p align="center">   \<i>"Understand systems deeply. Automate intelligently. Build reliable infrastructure."\</i> \</p>
